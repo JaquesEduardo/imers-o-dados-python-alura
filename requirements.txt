@@ -1,0 +1,13 @@
+# Framework principal
+streamlit==1.38.0
+
+# Visualização de dados
+plotly==5.22.0
+matplotlib==3.9.1
+
+# Manipulação de dados
+pandas==2.2.2
+numpy==1.26.4
+
+# Extras úteis
+seaborn==0.13.2
